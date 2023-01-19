@@ -1,0 +1,6 @@
+fastApi
+bs4
+requests
+uvicorn
+cryptography
+pymongo
